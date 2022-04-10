@@ -1,7 +1,7 @@
 baseURL = 'http://ab2m.vercel.app/'
 languageCode = 'ja'
 defaultContentLanguage = 'ja'
-title = 'My New Hugo Site'
+title = 'memoryleak'
 theme = 'hugo-tranquilpeak-theme'
 
 [author]
