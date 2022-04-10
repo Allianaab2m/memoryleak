@@ -1,7 +1,9 @@
 ---
 title: "Helloworld"
 date: 2022-04-10T17:45:16+09:00
-draft: true
+draft: false
+categories:
+- 雑多
 ---
 
 MkDocs で作っていた以前のページの更新を見事にサボってしまったので，オーバーホールついでに色々と変更しました。
