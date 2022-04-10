@@ -6,9 +6,10 @@ theme = 'hugo-tranquilpeak-theme'
 
 [author]
   name = "Alliana"
-  bio = "思いついたことを掃き溜めるところ"
+  bio = "色々やってます。TypeScript すこ"
   location = "Japan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
+  twitter = "ab2m_alliana"
   gravatarEmail = "alliana.ally4@gmail.com"
 
 [params]
@@ -21,6 +22,10 @@ theme = 'hugo-tranquilpeak-theme'
   imageGallery = true
   hierarchicalCategories = true
   syntaxHighlighter = 'highlight.js'
+  [[params.sharingOptions]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    url = "https://twitter.com/intent/tweet?text=%s"
   
 [[menu.main]]
   weight = 1
