@@ -1,4 +1,4 @@
-baseURL = 'http://allianaab2m.vercel.app/'
+baseURL = 'http://ab2m.vercel.app/'
 languageCode = 'ja'
 defaultContentLanguage = 'ja'
 title = 'My New Hugo Site'
