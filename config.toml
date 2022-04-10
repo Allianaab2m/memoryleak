@@ -1,4 +1,4 @@
-baseURL = 'http://ab2m.vercel.app/'
+baseURL = 'https://ab2m.vercel.app/'
 languageCode = 'ja'
 defaultContentLanguage = 'ja'
 title = 'memoryleak'
