@@ -3,9 +3,11 @@ title: "Helloworld"
 date: 2022-04-10T17:45:16+09:00
 draft: false
 categories:
-- 雑多
+- ブログ
+tags:
+- 技術
 ---
-
+<!--more-->
 MkDocs で作っていた以前のページの更新を見事にサボってしまったので，オーバーホールついでに色々と変更しました。
 
 ちなみにこのサイトは，[あさると](https://twitter.con/Szlyne_)の[サイト](https://assault1892.github.io/)の影響[^1]を受けに受けまくってます。
